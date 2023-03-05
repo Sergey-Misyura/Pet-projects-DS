@@ -1,4 +1,7 @@
-# Pet-projects-DS
-Pet projects of Data Science
-
-!Up HPE for Fitness еще в процессе разработки, а именно выбора деплоя.
+# Pet-projects Data Science.
+Сборник пет-проектов.
+</br>
+</br>
+Проекты в сборнике:
+- Human pose estimation for fitness.
+- Movie review classifier.
