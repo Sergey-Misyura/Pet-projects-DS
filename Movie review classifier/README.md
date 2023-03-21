@@ -9,3 +9,5 @@
 - Movie review classifier.ipynb - ноутбук с разработкой моделей ML и BERT
 - saved_models - сохраненные модели в формате SavedModel (кроме BERT)
 - django_project - веб-сервис на базе django (requirements.txt изменен, отсутствуют предустановленные на сервере библиотеки)
+
+Отчет о работе: Work report.pdf
